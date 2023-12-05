@@ -36,10 +36,8 @@
     font-size: 20px;
     font-weight: 600;
 }
-.full , .foysal{
-    margin: 60px;
-    height: 100px;
-    width: 100%;
+.full{
+    margin: 80px;
 }
 .tanvir{
     color: maroon;
@@ -47,10 +45,4 @@
 .last{
     color: brown;
 }
-
-html, body {
-    height: 100%;
-    margin: 0;
-  }
-
 
